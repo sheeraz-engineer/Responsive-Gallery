@@ -36,10 +36,6 @@ Responsive-gallery/
 
 1. Clone or download the repo:
 
-```bash
-git clone https://github.com/yourusername/responsive-gallery-lightbox.git
-```
-
 2. Open `index.html` in your browser.
 
 3. Replace the images in the `/images/` folder with your own.
