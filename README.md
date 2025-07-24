@@ -1,15 +1,11 @@
-# 📸 Responsive Image Gallery with Lightbox
+# 📸 Responsive Gallery 
 
 A modern, mobile-friendly image gallery built with **HTML**, **CSS**, and **JavaScript**. It features a responsive grid layout and a smooth lightbox popup effect for viewing full-size images.
 
-## 🔍 Preview
 
-![Gallery Preview](images/img1.jpg) <!-- Replace with real preview or GitHub Pages screenshot -->
+## 🌐 Live Demo
+[View Live Site](https://sheeraz-engineer.github.io/Responsive-Gallery/)
 
-**Live Demo:** [View on GitHub Pages](https://yourusername.github.io/responsive-gallery-lightbox/)  
-_(Update this with your actual GitHub Pages URL)_
-
----
 
 ## 🛠️ Features
 
@@ -27,25 +23,14 @@ _(Update this with your actual GitHub Pages URL)_
 ## 📁 Project Structure
 
 ```
-responsive-gallery-lightbox/
-│
-├── index.html        # Main HTML structure
-├── style.css         # Styling (grid, layout, lightbox)
-├── script.js         # Lightbox functionality
-└── images/           # 6–8 gallery images
+Responsive-gallery/
+
+├── index.html
+├── style.css
+├── script.js
+
 ```
 
----
-
-## 📷 Screenshots
-
-| Grid Layout         | Lightbox View        |
-|---------------------|----------------------|
-| ![](images/img2.jpg) | ![](images/img3.jpg) |
-
-_(Replace or update with real screenshots or demo images)_
-
----
 
 ## 📦 How to Use
 
@@ -61,27 +46,21 @@ git clone https://github.com/yourusername/responsive-gallery-lightbox.git
 
 ---
 
-## ✨ Customization
-
-- Use any free image source like [Unsplash](https://unsplash.com) or [Picsum](https://picsum.photos).
-- Add category filters, lazy loading, or loading spinners as enhancements.
-- Style it with your brand’s color scheme and fonts.
 
 ---
 
 ## 💡 Technologies Used
 
 - HTML5
-- CSS3 (Flexbox & Grid)
-- Vanilla JavaScript (ES6)
+- CSS
+- JavaScript
 
 ---
 
-## 🧑‍💻 Author
-
+## 👨‍💻 Author
 **Sheeraz Ahmed**  
-Web Developer Intern  
-📫 Connect via [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/yourusername)
+Frontend Web Developer  
+📫 [LinkedIn](https://www.linkedin.com/in/sheeraz-ahmed-28317436b/) | [GitHub](https://github.com/sheeraz-engineer)
 
 ---
 
